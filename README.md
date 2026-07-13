@@ -1,5 +1,7 @@
 # 新店・文山・大安咖啡廳推薦系統
 
+[![CI](https://github.com/Hunter20041004/taipei-cafe-recommender-excel/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Hunter20041004/taipei-cafe-recommender-excel/actions/workflows/ci.yml)
+
 > **Taipei Cafe Recommender** — an Excel/VBA portfolio project that turns a small cafe dataset into an interactive recommendation and analysis workflow.
 
 這是一個以 Microsoft Excel 與 VBA 製作的互動式咖啡廳推薦工具。使用者可以依照飲料均價、通勤時間、限時偏好與行政區篩選，系統會依 Google 評分排序，顯示推薦結果、單店資訊及統計圖表。
